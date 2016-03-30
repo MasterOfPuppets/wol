@@ -2,7 +2,7 @@
   "name": "wake-it-up",
   "private": true,
   "version": "0.0.0",
-  "description": "Wake lan computers up",
+  "description": "Wake remote computers on",
   "repository": "https://github.com/MasterOfPuppets/wol.git",
   "license": "MIT",
   "devDependencies": {
